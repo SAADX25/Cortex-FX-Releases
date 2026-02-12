@@ -3,7 +3,7 @@
 
 Cortex FX is a modern, high-performance desktop application designed to convert Images, Videos, Audio, and Documents with a simple Drag & Drop interface. Built with .NET 8 and WPF.
 
-![Cortex FX Screenshot](https://via.placeholder.com/800x450.png?text=Add+Your+Screenshot+Here)
+![Cortex FX Screenshot]
 
 ## ✨ Features
 - **Modern UI:** Dark mode, chromeless window, and smooth animations.

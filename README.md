@@ -21,6 +21,8 @@ Get the latest version from the **[Releases Page](../../releases)**.
 - **OS:** Windows 10 / 11 (64-bit)
 - **Processor:** Intel/AMD 64-bit
 - **Installation:** No external dependencies required (Self-Contained).
+<img width="943" height="640" alt="image" src="https://github.com/user-attachments/assets/d5f46547-c123-4a84-a15e-67063b9571eb" />
+<img width="944" height="649" alt="image" src="https://github.com/user-attachments/assets/0f8e79a3-d859-48c7-b6a3-5a09002a54be" />
 
 ---
 *Developed by [SAADX25](https://github.com/SAADX25)*
